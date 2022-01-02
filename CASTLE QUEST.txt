@@ -1,0 +1,81 @@
+WELCOME TO CASTLE QUEST
+- By Vertex, 2020
+
+*** HOW TO PLAY ***
+
+	I'll keep this introduction as simple and quick as possible.
+	
+	Navigate the haunted castle by proceeding from room to room. Each room will probably hold 1 to 3 chests, which can hold some pretty decent loot inside. You'll need to spend a key to get into them, though.
+	
+	The castle is swarming with all sorts of supernatural monsters, and you'll probably encounter them as you move from room to room. Each room can have anywhere from 1 to 3 exits, so you'll need to specify which one you'd like to leave through.
+	
+	During a battle, type the name of the item you'd like to use. Weapons do damage, and typing the name of a food item will consume one of those items. Keep an eye on your inventory! Don't waste a move by trying to eat a food item you don't have, or trying to use a weapon that needs to cool down. Ex: sword [3]
+	
+	Lastly, you can find workbenches around the ruined castle. I've provided crafting recipes here to help you by. At the workbenches, you can also eat as many food items as you'd like, but take care not to eat too many! The maximum health you can have is 100.
+	
+	That's all you need to know. Go go 'em, hero.
+	
+*** FOOD STATS ***
+
+apple 							: 		+ 5
+bread 							: 		+ 15
+potato 							: 		+ 25
+steak 							: 		+ 45
+potion of life					:		+ 110
+
+*** WEAPON STATS ***
+
+Swords:
+
+dagger 							:		- 1		[0]
+short sword 					:		- 4		[2]
+sword 							: 		- 12	[5]
+long sword 						:		- 48	[7]
+excalibur						:		- 200	[6]
+
+Guns:
+
+flint lock 						: 		- 30	[3]
+revolver 						: 		- 90	[5]
+musket 							: 		- 180	[3]
+
+*** ARMOR STATS ***
+
+Shields:
+
+buckler 						:		+ 5
+wooden shield					:		+ 50
+iron shield						:		+ 150
+metal hoplon 					:		+ 300
+
+Armor:
+
+wooden armor 					: 		+ 125
+iron armor 						:		+ 300
+
+*** CRAFTING RECIPES ***
+
+Swords:
+
+1 iron ingot > 1 stick			:		dagger
+2 dagger						:		short sword
+2 short sword					:		sword
+2 sword							:		long sword
+1 long sword 1 sword 			:		excalibur
+
+Guns:
+
+1 iron ingot > 3 gunpowder		:		1 bullet
+1 iron ingot > 2 stick 			:		flint lock
+2 flint lock					:		revolver
+2 revolver						:		musket
+
+Shields:
+
+7 stick 						: 		wooden shield
+4 iron ingot > 4 stick 			:		iron shield
+2 iron shield > 4 stick 		:		metal hoplon
+
+Armor:
+15 sticks						:		wooden armor
+15 iron ingots 					:		iron armor
